@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "EmployeeCRUDrestApiClient"
+  "defaultProject": "EmployeeCRUDrestApiClient",
+  "cli": {
+    "analytics": "a10cf131-ad96-4be6-b834-44744f0021a4"
+  }
 }
